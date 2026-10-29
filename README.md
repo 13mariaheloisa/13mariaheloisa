@@ -4,3 +4,10 @@
 - 🎯 Atualmente estou focada em aprender mais sobre a área de análise e banco de dados.
 - 📫 Email: 13mariaheloisa@gmail.com
 - ---
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=13mariaheloisa&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=13mariaheloisa&layout=compact&theme=radical)
